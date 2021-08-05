@@ -3,6 +3,8 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
+Tensorflow version : https://github.com/smehdia/NTIRE2021-IQA-MACS
+
 ### **competition of Image Quality Assessment (IQA) challenge - NTIRE  2021**
 
 ------
@@ -16,8 +18,6 @@
 - ***Supp. Materials*** : [Supplementary Materials](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/supplemental/Ayyoubzadeh_ASNA_An_Attention-Based_CVPRW_2021_supplemental.pdf)
 
 
-
-Tensorflow version : https://github.com/smehdia/NTIRE2021-IQA-MACS
 
 we use [SoSeep](https://github.com/technicolor-research/sodeep) codes for Ranking Loss section .  
 
