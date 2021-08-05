@@ -1,1 +1,0 @@
-Tensorboard logs of trainings will be saved here.

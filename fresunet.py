@@ -1,9 +1,3 @@
-# Rodrigo Caye Daudt
-# https://rcdaudt.github.io/
-# Daudt, R.C., Le Saux, B., Boulch, A. and Gousseau, Y., 2019. Multitask learning for large-scale semantic change detection. Computer Vision and Image Understanding, 187, p.102783.
-
-
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
