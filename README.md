@@ -8,7 +8,11 @@
 ------
 
 - ***Challenge Paper*** : [NTIRE 2021 Challenge on Perceptual Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Gu_NTIRE_2021_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2021_paper.pdf)   
+
+  
+
 - ***Our Paper*** : [(ASNA) An Attention-Based Siamese-Difference Neural Network With  Surrogate Ranking Loss Function for Perceptual Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Ayyoubzadeh_ASNA_An_Attention-Based_Siamese-Difference_Neural_Network_With_Surrogate_Ranking_Loss_CVPRW_2021_paper.pdf) .
+
 - ***Supp. Materials*** : [Supplementary Materials](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/supplemental/Ayyoubzadeh_ASNA_An_Attention-Based_CVPRW_2021_supplemental.pdf)
 
 
