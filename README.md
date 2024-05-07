@@ -20,13 +20,3 @@ Tensorflow version : https://github.com/smehdia/NTIRE2021-IQA-MACS
 
 
 we use [SoSeep](https://github.com/technicolor-research/sodeep) codes for Ranking Loss section .  
-
-
-
-### Updates:
-
-- **8/5/2021** We added Primary files. We will clean the codes for your using, soon !
-
-
-
-## under construction
